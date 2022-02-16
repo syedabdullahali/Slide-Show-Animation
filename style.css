@@ -121,6 +121,7 @@ body {
 }
 @media (max-width:768px) {
   .container .slider .slide .caption {
+    
     position: absolute;
     bottom: 20px;
     left: 20px;
