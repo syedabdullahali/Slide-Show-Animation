@@ -130,10 +130,12 @@ body {
   }
   .container .slider .slide .caption h2 {
     margin: 0 0 10px;
-    
+
     font-size: 30px;
   }
   .container .slider .slide .caption p {
     
     font-size: 16px;
+}
+
 }
